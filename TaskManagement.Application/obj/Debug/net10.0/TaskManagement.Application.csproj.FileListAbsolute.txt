@@ -13,3 +13,4 @@ D:\work\learning\task-management-api\TaskManagement.Application\obj\Debug\net10.
 D:\work\learning\task-management-api\TaskManagement.Application\obj\Debug\net10.0\refint\TaskManagement.Application.dll
 D:\work\learning\task-management-api\TaskManagement.Application\obj\Debug\net10.0\TaskManagement.Application.pdb
 D:\work\learning\task-management-api\TaskManagement.Application\obj\Debug\net10.0\ref\TaskManagement.Application.dll
+D:\work\learning\task-management-api\TaskManagement.Application\obj\Debug\net10.0\TaskManagement.Application.sourcelink.json

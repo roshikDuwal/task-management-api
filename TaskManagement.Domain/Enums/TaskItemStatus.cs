@@ -1,0 +1,12 @@
+using Microsoft.VisualBasic;
+using TaskManagement.Domain.Entities;
+
+namespace TaskManagement.Domain.Enums
+{
+      public enum TaskItemStatus
+    {
+        Pending,
+        InProgress,
+        Completed
+    }
+}

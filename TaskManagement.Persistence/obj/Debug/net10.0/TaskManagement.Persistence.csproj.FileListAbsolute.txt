@@ -15,3 +15,4 @@ D:\work\learning\task-management-api\TaskManagement.Persistence\obj\Debug\net10.
 D:\work\learning\task-management-api\TaskManagement.Persistence\obj\Debug\net10.0\refint\TaskManagement.Persistence.dll
 D:\work\learning\task-management-api\TaskManagement.Persistence\obj\Debug\net10.0\TaskManagement.Persistence.pdb
 D:\work\learning\task-management-api\TaskManagement.Persistence\obj\Debug\net10.0\ref\TaskManagement.Persistence.dll
+D:\work\learning\task-management-api\TaskManagement.Persistence\obj\Debug\net10.0\TaskManagement.Persistence.sourcelink.json

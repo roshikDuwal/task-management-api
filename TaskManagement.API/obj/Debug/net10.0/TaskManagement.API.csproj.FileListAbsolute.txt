@@ -39,3 +39,15 @@ D:\work\learning\task-management-api\TaskManagement.API\obj\Debug\net10.0\refint
 D:\work\learning\task-management-api\TaskManagement.API\obj\Debug\net10.0\TaskManagement.API.pdb
 D:\work\learning\task-management-api\TaskManagement.API\obj\Debug\net10.0\TaskManagement.API.genruntimeconfig.cache
 D:\work\learning\task-management-api\TaskManagement.API\obj\Debug\net10.0\ref\TaskManagement.API.dll
+D:\work\learning\task-management-api\TaskManagement.API\obj\Debug\net10.0\TaskManagement.API.sourcelink.json
+D:\work\learning\task-management-api\TaskManagement.API\bin\Debug\net10.0\AutoMapper.dll
+D:\work\learning\task-management-api\TaskManagement.API\bin\Debug\net10.0\Dapper.dll
+D:\work\learning\task-management-api\TaskManagement.API\bin\Debug\net10.0\FluentValidation.dll
+D:\work\learning\task-management-api\TaskManagement.API\bin\Debug\net10.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\work\learning\task-management-api\TaskManagement.API\bin\Debug\net10.0\MediatR.dll
+D:\work\learning\task-management-api\TaskManagement.API\bin\Debug\net10.0\MediatR.Contracts.dll
+D:\work\learning\task-management-api\TaskManagement.API\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+D:\work\learning\task-management-api\TaskManagement.API\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\work\learning\task-management-api\TaskManagement.API\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+D:\work\learning\task-management-api\TaskManagement.API\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+D:\work\learning\task-management-api\TaskManagement.API\bin\Debug\net10.0\MySqlConnector.dll

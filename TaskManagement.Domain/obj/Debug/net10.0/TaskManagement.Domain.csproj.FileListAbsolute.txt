@@ -9,3 +9,4 @@ D:\work\learning\task-management-api\TaskManagement.Domain\obj\Debug\net10.0\Tas
 D:\work\learning\task-management-api\TaskManagement.Domain\obj\Debug\net10.0\refint\TaskManagement.Domain.dll
 D:\work\learning\task-management-api\TaskManagement.Domain\obj\Debug\net10.0\TaskManagement.Domain.pdb
 D:\work\learning\task-management-api\TaskManagement.Domain\obj\Debug\net10.0\ref\TaskManagement.Domain.dll
+D:\work\learning\task-management-api\TaskManagement.Domain\obj\Debug\net10.0\TaskManagement.Domain.sourcelink.json
