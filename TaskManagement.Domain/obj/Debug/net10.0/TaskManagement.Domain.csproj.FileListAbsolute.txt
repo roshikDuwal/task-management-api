@@ -1,0 +1,11 @@
+D:\work\learning\task-management-api\TaskManagement.Domain\bin\Debug\net10.0\TaskManagement.Domain.deps.json
+D:\work\learning\task-management-api\TaskManagement.Domain\bin\Debug\net10.0\TaskManagement.Domain.dll
+D:\work\learning\task-management-api\TaskManagement.Domain\bin\Debug\net10.0\TaskManagement.Domain.pdb
+D:\work\learning\task-management-api\TaskManagement.Domain\obj\Debug\net10.0\TaskManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\learning\task-management-api\TaskManagement.Domain\obj\Debug\net10.0\TaskManagement.Domain.AssemblyInfoInputs.cache
+D:\work\learning\task-management-api\TaskManagement.Domain\obj\Debug\net10.0\TaskManagement.Domain.AssemblyInfo.cs
+D:\work\learning\task-management-api\TaskManagement.Domain\obj\Debug\net10.0\TaskManagement.Domain.csproj.CoreCompileInputs.cache
+D:\work\learning\task-management-api\TaskManagement.Domain\obj\Debug\net10.0\TaskManagement.Domain.dll
+D:\work\learning\task-management-api\TaskManagement.Domain\obj\Debug\net10.0\refint\TaskManagement.Domain.dll
+D:\work\learning\task-management-api\TaskManagement.Domain\obj\Debug\net10.0\TaskManagement.Domain.pdb
+D:\work\learning\task-management-api\TaskManagement.Domain\obj\Debug\net10.0\ref\TaskManagement.Domain.dll
