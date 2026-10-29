@@ -1,0 +1,32 @@
+using FluentValidation;
+using MediatR;
+
+namespace TaskManagement.Application.Common.Behaviour
+{
+    public class ValidationBehaviour<TRequest, TResponse> : IPipelineBehavior<TRequest, TResponse> where TRequest : notnull
+    {
+
+        private readonly IEnumerable<IValidator<TRequest>> _validators;
+
+        public ValidationBehaviour(IEnumerable<IValidator<TRequest>> validators)
+        {
+            _validators = validators;
+        }
+
+        public Task<TResponse> Handle(TRequest request, RequestHandlerDelegate<TResponse> next, CancellationToken cancellationToken)
+        {
+            if(!_validators.Any()) return next();
+
+            var context=new ValidationContext<TRequest>(request);
+            var failures=_validators
+                    .Select(v=>v.Validate(context))
+                    .SelectMany(error=>error.Errors)
+                    .Where(e=> e!=null)
+                    .ToList();
+
+            if(failures.Any()) throw new ValidationException(failures);
+
+            return next();
+        }
+    }
+}
